@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi people 👋
 
+- 🔭 I’m currently working on industry, but searching new horizons
+- 🌱 I’m currently learning Web development with HTML, CSS, JAVASCRIPT and NODE
 <!--
 **rafagoesdev/rafagoesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
